@@ -6,8 +6,7 @@ package:
   version: 3.0
 
 build:
-  noarch_python: True
-  number: 0
+  number: 1
 
 requirements:
   run:
