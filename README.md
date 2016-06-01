@@ -72,7 +72,7 @@ Current build status
 
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pyomo.extras-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/pyomo.extras-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/pyomo.extras-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pyomo.extras-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pyomo-extras-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pyomo-extras-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pyomo.extras-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pyomo-extras-feedstock/branch/master)
 
 Current release info
 ====================
