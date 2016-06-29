@@ -13,6 +13,7 @@ requirements:
     - python
   run:
     - python
+    - numpy
     - ipython
     - openpyxl
     - sympy
@@ -25,6 +26,7 @@ requirements:
 
 test:
   imports:
+    - numpy
     - IPython
     - openpyxl
     - sympy
