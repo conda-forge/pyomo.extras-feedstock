@@ -6,7 +6,7 @@ package:
   version: 3.0
 
 build:
-  number: 2
+  number: 0
 
 requirements:
   build:
