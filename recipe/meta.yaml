@@ -3,10 +3,10 @@
 
 package:
   name: pyomo.extras
-  version: 3.0
+  version: 3.1
 
 build:
-  number: 2
+  number: 0
 
 requirements:
   build:
@@ -21,7 +21,7 @@ requirements:
     - pyodbc
     - pyro4
     - pyyaml
-    - suds-jurko
+    - networkx
     - xlrd
 
 test:
@@ -34,7 +34,7 @@ test:
     - pyodbc
     - Pyro4
     - yaml
-    - suds
+    - networkx
     - xlrd
 
 about:
