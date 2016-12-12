@@ -3,7 +3,7 @@
 
 package:
   name: pyomo.extras
-  version: 3.1
+  version: 3.2
 
 build:
   number: 0
