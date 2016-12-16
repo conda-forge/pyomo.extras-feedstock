@@ -3,7 +3,7 @@
 
 package:
   name: pyomo.extras
-  version: 3.1
+  version: 3.2
 
 build:
   number: 0
@@ -23,6 +23,8 @@ requirements:
     - pyyaml
     - networkx
     - xlrd
+    - pandas
+    - matplotlib
 
 test:
   imports:
@@ -36,6 +38,8 @@ test:
     - yaml
     - networkx
     - xlrd
+    - pandas
+    - matplotlib
 
 about:
   home: http://pyomo.org
