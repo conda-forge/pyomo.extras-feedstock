@@ -3,7 +3,7 @@
 
 package:
   name: pyomo.extras
-  version: 3.2
+  version: 3.3
 
 build:
   number: 0
@@ -14,6 +14,7 @@ requirements:
   run:
     - python
     - numpy
+    - scipy
     - ipython
     - openpyxl
     - sympy
@@ -25,6 +26,7 @@ requirements:
     - xlrd
     - pandas
     - matplotlib
+    - dill
 
 test:
   imports:
@@ -40,6 +42,7 @@ test:
     - xlrd
     - pandas
     - matplotlib
+    - dill
 
 about:
   home: http://pyomo.org
