@@ -6,7 +6,7 @@ package:
   version: 3.3
 
 build:
-  number: 182212
+  number: 182213
 
 requirements:
   build:
@@ -25,7 +25,7 @@ requirements:
     - networkx
     - xlrd
     - pandas
-    - matplotlib
+    - matplotlib-base
     - dill
 
 test:
@@ -41,7 +41,7 @@ test:
     - networkx
     - xlrd
     - pandas
-    - matplotlib
+    - matplotlib-base
     - dill
 
 about:
